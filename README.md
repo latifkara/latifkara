@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **An Intelligent System that Predicts Potential Criminals with Image Processing Methods from Mobese Cameras.**
 
-- 🌱 I’m currently learning **Data Anlysis, Data Science**
+- 🌱 I’m currently learning **Data Anlysis, Data Science,  Machine Learning**
 
 - 💬 Ask me about **artificial intelligence, machine learning, web development**
 
