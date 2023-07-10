@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=latifkara&show_icons=true&locale=en" alt="latifkara" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=latfikara&theme=tokyonight-duo)](https://git.io/streak-stats)" alt="latifkara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=latfikara&theme=tokyonight-duo" alt="latifkara" /></p>
 
