@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **artificial intelligence, machine learning, web development**
 
-- 📫 How to reach me **latifkara93@gmail.com**
-
 - ⚡ Fun fact **I think I funny**
 
 <h3 align="left">Connect with me:</h3>
